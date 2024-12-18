@@ -22,5 +22,5 @@ I blend clean code with creative designs to deliver seamless and visually striki
 <img src="https://skillicons.dev/icons?i=gmail" height="40"/> Gmail: alba03943@gmail.com
 
 <p align="center">
-  <img src="https://tamagotchi-official.com/mx/series/connection/images/top/chara/img_07.png" alt="bannercute" style="width: 300px; height: auto;" />
+  <img src="https://tamagotchi-official.com/mx/series/connection/images/top/chara/img_07.png" alt="bannercute" style="width: 100px; height: auto;" />
 </p>
