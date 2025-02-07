@@ -10,10 +10,10 @@ I blend clean code with creative designs to deliver seamless and visually striki
 
 ### ✧✦  I specialize in the following ✦✧
 - Languages  
-<img src="https://skillicons.dev/icons?i=js,html,css,php,java,react,nodejs" height="40"/>
+<img src="https://skillicons.dev/icons?i=js,html,css,php,java" height="40"/>
 
 - Frameworks  
-<img src="https://skillicons.dev/icons?i=laravel,docker,tailwind,spring,vite" height="40"/>
+<img src="https://skillicons.dev/icons?i=laravel,docker,tailwind,vite,react,nodejs" height="40"/>
 
 - Tools and software  
 <img src="https://skillicons.dev/icons?i=idea,vscode,windows,linux,ubuntu,mysql,aws,photoshop,gcp" height="40"/>
