@@ -13,10 +13,10 @@ I blend clean code with creative designs to deliver seamless and visually striki
 <img src="https://skillicons.dev/icons?i=js,html,css,php,java,react,nodejs" height="40"/>
 
 - Frameworks  
-<img src="https://skillicons.dev/icons?i=laravel,docker,tailwind,spring" height="40"/>
+<img src="https://skillicons.dev/icons?i=laravel,docker,tailwind,spring,vite" height="40"/>
 
 - Tools and software  
-<img src="https://skillicons.dev/icons?i=idea,vscode,windows,linux,ubuntu,mysql,aws,photoshop" height="40"/>
+<img src="https://skillicons.dev/icons?i=idea,vscode,windows,linux,ubuntu,mysql,aws,photoshop,gcp" height="40"/>
  
 ### ✦✧  Contact me here ✧✦
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/> LinkedIn:  https://www.linkedin.com/in/alba-marmolejo-ramos-34b833331/
